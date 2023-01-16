@@ -3,8 +3,8 @@
 
 ## Favourite Things about CS193
 - Being able to learn new skills useful for a CS Major
-- The intrustors of the cource teach very well
-- The cource teaches to navigate through my laptop in a better way
+- The instructors of the course teach very well
+- The course teaches us to navigate through a laptop using terminal in a better way
 
 
 ```markdown
