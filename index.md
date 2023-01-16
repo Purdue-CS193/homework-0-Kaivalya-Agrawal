@@ -1,7 +1,7 @@
 
 # Kaivalya Agrawal's First CS193 Homework
 
-## Favourite Things about CS193
+## Favorite Things about CS193
 - Being able to learn new skills useful for a CS Major
 - The instructors of the course teach very well
 - The course teaches us to navigate through a laptop using terminal in a better way
